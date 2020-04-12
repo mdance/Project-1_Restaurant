@@ -17,6 +17,9 @@ body {
     width: 1024px;
 }
 
+.maps {
+    padding-bottom: 70px;
+}
 
 header {
     height: 118px;
